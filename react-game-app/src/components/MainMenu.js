@@ -16,17 +16,6 @@ function MainMenu({ onStartGame }) {
   };
 
   return (
-    <div>
-      <div className="d-flex justify-content-end mb-3">
-        <a 
-          href="https://syed04wajeeh.github.io/My-Portfolio/"
-          className="btn btn-outline-secondary" 
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          My Portfolio
-        </a>
-      </div>
 
       <div className="text-center">
         <h2>Game Settings</h2>
