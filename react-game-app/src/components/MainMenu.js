@@ -16,7 +16,7 @@ function MainMenu({ onStartGame }) {
   };
 
   return (
-
+    <div>
       <div className="text-center">
         <h2>Game Settings</h2>
         <p>Please choose your preferred difficulty to begin the exercise.</p>
